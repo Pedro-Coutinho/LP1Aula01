@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.exe
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.deps.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.runtimeconfig.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.pdb
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.pdb

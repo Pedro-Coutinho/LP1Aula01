@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.exe
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.deps.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.runtimeconfig.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\bin\Debug\netcoreapp3.1\VariasStrings.pdb
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\obj\Debug\netcoreapp3.1\VariasStrings.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\obj\Debug\netcoreapp3.1\VariasStrings.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\obj\Debug\netcoreapp3.1\VariasStrings.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\obj\Debug\netcoreapp3.1\VariasStrings.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\VariasStrings\obj\Debug\netcoreapp3.1\VariasStrings.pdb

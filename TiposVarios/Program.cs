@@ -36,6 +36,11 @@ namespace TiposVarios
             Console.WriteLine(real2);
             Console.WriteLine(real3);
 
+            bool initfalse = false;
+            bool inittrue = true;
+
+            Console.WriteLine(initfalse);
+            Console.WriteLine(inittrue);
         }
     }
 }

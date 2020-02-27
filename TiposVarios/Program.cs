@@ -25,6 +25,17 @@ namespace TiposVarios
             Console.WriteLine(unicode2);
             Console.WriteLine(unicode3);
             Console.WriteLine(unicode4);
+
+            float real = 3.14f;
+            float real1 = 2.14f;
+            float real2 = 6.61f;
+            float real3 = 7.13f;
+
+            Console.WriteLine(real);
+            Console.WriteLine(real1);
+            Console.WriteLine(real2);
+            Console.WriteLine(real3);
+
         }
     }
 }

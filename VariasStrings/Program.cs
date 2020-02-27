@@ -14,6 +14,20 @@ namespace VariasStrings
             Console.WriteLine(codigos);
             Console.WriteLine(verbatim);
 
+            int numero = 64;
+            int numero1 = 70;
+            string a = "Abc";
+            string c = a + numero;
+            string d = $"Valor de x = {numero},  valor de y = {numero1}";
+            string b = String.Format("Valor de x = {0},  valor de y = {1}", 
+            numero, numero1);
+
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(c);
+            Console.WriteLine(d);
+
+
         }
     }
 }

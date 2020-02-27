@@ -1,0 +1,11 @@
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.exe
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.deps.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.runtimeconfig.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\bin\Debug\netcoreapp3.1\Argumentos.pdb
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\obj\Debug\netcoreapp3.1\Argumentos.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\obj\Debug\netcoreapp3.1\Argumentos.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\obj\Debug\netcoreapp3.1\Argumentos.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\obj\Debug\netcoreapp3.1\Argumentos.dll
+C:\Users\pedro\Desktop\Folders\Faculdade\Lp1\LP1Aula01\Argumentos\obj\Debug\netcoreapp3.1\Argumentos.pdb
